@@ -4,7 +4,7 @@ var mainInfo = document.getElementById("mainInfo");
 var container = document.getElementById("middlePage");
 var choiceBtn = $("#answerBtns");
 var newBtn = document.getElementById("newBtn");
-var count = 300;
+var count = 75;
 
 function countDown() {
     var timerInterval = setInterval(function () {
